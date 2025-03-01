@@ -2,6 +2,12 @@
 
 A classic Snake game implementation using Pygame. The player controls a snake that grows longer as it eats food while avoiding walls and itself. This version includes multiple lives and a trophy system based on your score achievements.
 
+## Video
+
+
+https://github.com/user-attachments/assets/deb04664-7923-4836-8c00-da06edbc13c2
+
+
 ## Features
 
 - Smooth snake movement with arrow key controls
